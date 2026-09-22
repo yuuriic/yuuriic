@@ -67,12 +67,7 @@ const yuri = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuuriic&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuriic&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuriic&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuriic&hide_border=true&theme=github-dark" />
 </div>
 
 <br>
