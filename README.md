@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-╭──────────────────────────────────────────────────╮
-│  yuri_cordeiro.init()                             │
-│  role     : Engenheiro de Software                │
-│  stack    : Java · Spring Boot · React/TypeScript │
-│  learning : DevOps & SRE  [██████░░░░] 60%        │
-╰──────────────────────────────────────────────────╯
-```
-
 # Yuri De França Cordeiro
 
 **Engenheiro de Software | Java · Spring Boot · React/TypeScript**
@@ -35,39 +26,20 @@ const yuri = {
 
 <br>
 
-## 🧰 Tecnologias & Ferramentas
+## 🧰 Tecnologias
 
-**Backend & Java**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,react,nextjs,ts,js,tailwind,postgres,supabase,git,github,docker,linux,py,vscode&theme=dark&perline=8" />
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+<br>
 
-**Frontend**
+<div align="center">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Dados & Backend as a Service**
-
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Testes & CI/CD**
-
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**DevOps & Infra (em formação)**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</div>
 
 <br>
 
