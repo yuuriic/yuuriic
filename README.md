@@ -67,7 +67,7 @@ const yuri = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuriic&hide_border=true&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuriic&hide_border=true&theme=github-dark&v=3" />
 </div>
 
 <br>
