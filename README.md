@@ -1,10 +1,20 @@
 <div align="center">
 
+```
+╭──────────────────────────────────────────────────╮
+│  yuri_cordeiro.init()                             │
+│  role     : Engenheiro de Software                │
+│  stack    : Java · Spring Boot · React/TypeScript │
+│  learning : DevOps & SRE  [██████░░░░] 60%        │
+╰──────────────────────────────────────────────────╯
+```
+
 # Yuri De França Cordeiro
 
 **Engenheiro de Software | Java · Spring Boot · React/TypeScript**
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engenhariasoftware.yuri@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=yuuriic&style=for-the-badge&color=39D353&label=PROFILE+VIEWS)
 
 </div>
 
@@ -12,19 +22,15 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de Software formado pela **Universidade Positivo**, atualmente cursando MBA em **Engenharia de Software Moderna — Arquitetura, Plataformas e IA** pela **FIAP**. Construo APIs em Java/Spring Boot e aplicações web com React/Next.js e Supabase, e estou aprofundando a trilha de **DevOps & SRE** (Linux, Docker, CI/CD).
-
-```yaml
-formacao:
-  graduacao: "Engenharia de Software — Universidade Positivo (concluído)"
-  pos_graduacao: "MBA Eng. de Software Moderna (Arquitetura, Plataformas e IA) — FIAP, em andamento"
-em_formacao:
-  - Trilha DevOps & SRE — Alura (Linux, Docker, GitHub, terminal, tráfego seguro na web)
-  - Bootcamp Santander 2026 - AI Java Back-end — DIO
-projetos_recentes:
-  - Maintenex — SaaS de gestão de manutenção multiempresa
-  - FinVoice AI — assistente financeiro por comando de voz (Spring AI + Groq)
-  - Star Brownie — site 3D imersivo com Next.js e React Three Fiber
+```js
+const yuri = {
+  formacao: "Engenharia de Software — Universidade Positivo (concluído)",
+  posGraduacao: "MBA Eng. de Software Moderna, Arquitetura, Plataformas e IA — FIAP (em andamento)",
+  stackPrincipal: ["Java", "Spring Boot", "React", "TypeScript", "Supabase"],
+  emFormacao: ["DevOps & SRE (trilha Alura)", "Docker", "Linux"],
+  projetosRecentes: ["Maintenex", "FinVoice AI", "Star Brownie"],
+  contato: "engenhariasoftware.yuri@gmail.com",
+};
 ```
 
 <br>
@@ -67,13 +73,13 @@ projetos_recentes:
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **[Maintenex](https://github.com/yuuriic/maintenex)** | SaaS multiempresa de gestão de manutenção — checklists, estoque e pendências com SLA | React 19 · TypeScript · Supabase (RLS) · Playwright · k6 |
-| **[FinVoice AI](https://github.com/yuuriic/finvoice-ai)** | Assistente financeiro por comando de voz: transcreve áudio e executa operações via Tool Calling | Java 21 · Spring Boot · Spring AI · Groq |
-| **[Star Brownie](https://github.com/yuuriic/star-brownie)** | Site imersivo com modelo 3D animado por scroll e mapa interativo de pontos de venda | Next.js · React Three Fiber · GSAP |
-| **[VivaTour API](https://github.com/yuuriic/vivatour-api)** | API de reservas de viagens em Java puro, aplicando 5 padrões de projeto GoF | Java · Design Patterns |
-| **[Mabeel Coffee](https://github.com/yuuriic/mabeel-coffee)** | Site institucional responsivo de cafeteria, com cardápio e integração WhatsApp | Next.js · React · Tailwind CSS |
+| Projeto | Descrição | Stack | Status |
+|---|---|---|---|
+| **[Maintenex](https://github.com/yuuriic/maintenex)** | SaaS multiempresa de gestão de manutenção — checklists, estoque e pendências com SLA | React 19 · TypeScript · Supabase (RLS) · Playwright · k6 | 🟢 Em produção |
+| **[FinVoice AI](https://github.com/yuuriic/finvoice-ai)** | Assistente financeiro por comando de voz: transcreve áudio e executa operações via Tool Calling | Java 21 · Spring Boot · Spring AI · Groq | ✅ Concluído |
+| **[Star Brownie](https://github.com/yuuriic/star-brownie)** | Site imersivo com modelo 3D animado por scroll e mapa interativo de pontos de venda | Next.js · React Three Fiber · GSAP | ✅ Concluído |
+| **[VivaTour API](https://github.com/yuuriic/vivatour-api)** | API de reservas de viagens em Java puro, aplicando 5 padrões de projeto GoF | Java · Design Patterns | ✅ Concluído |
+| **[Mabeel Coffee](https://github.com/yuuriic/mabeel-coffee)** | Site institucional responsivo de cafeteria, com cardápio e integração WhatsApp | Next.js · React · Tailwind CSS | ✅ Concluído |
 
 <br>
 
@@ -89,12 +95,12 @@ projetos_recentes:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuuriic&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuriic&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuuriic&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuriic&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuriic&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuriic&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" />
 </div>
 
 <br>
