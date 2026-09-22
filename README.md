@@ -2,7 +2,7 @@
 
 # Yuri De França Cordeiro
 
-**Engenheiro de Software | DevOps · SRE · Cloud Engineering**
+**Engenheiro de Software | Java · Spring Boot · React/TypeScript**
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engenhariasoftware.yuri@gmail.com)
 
@@ -12,53 +12,56 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de Software formado pela **Universidade Positivo**, atualmente cursando MBA em **Engenharia de Software Moderna — Arquitetura, Plataformas e IA** pela **FIAP**. Foco de carreira em **infraestrutura, cloud e confiabilidade de sistemas**, com formação complementar em automação e desenvolvimento backend.
+Engenheiro de Software formado pela **Universidade Positivo**, atualmente cursando MBA em **Engenharia de Software Moderna — Arquitetura, Plataformas e IA** pela **FIAP**. Construo APIs em Java/Spring Boot e aplicações web com React/Next.js e Supabase, e estou aprofundando a trilha de **DevOps & SRE** (Linux, Docker, CI/CD).
 
 ```yaml
 formacao:
-  graduacao: "Engenharia de Software — Universidade Positivo"
+  graduacao: "Engenharia de Software — Universidade Positivo (concluído)"
   pos_graduacao: "MBA Eng. de Software Moderna (Arquitetura, Plataformas e IA) — FIAP, em andamento"
-foco_atual:
-  - DevOps & Site Reliability Engineering (trilha Alura)
-  - Cloud Infrastructure (AWS · Azure · GCP)
-  - Automação e Observabilidade
-complementar:
-  - Backend Java/Spring Boot (Bootcamp Santander 2026 - AI Java Back-end, via DIO)
+em_formacao:
+  - Trilha DevOps & SRE — Alura (Linux, Docker, GitHub, terminal, tráfego seguro na web)
+  - Bootcamp Santander 2026 - AI Java Back-end — DIO
+projetos_recentes:
+  - Maintenex — SaaS de gestão de manutenção multiempresa
+  - FinVoice AI — assistente financeiro por comando de voz (Spring AI + Groq)
+  - Star Brownie — site 3D imersivo com Next.js e React Three Fiber
 ```
 
 <br>
 
 ## 🧰 Tecnologias & Ferramentas
 
-**Cloud & Infraestrutura**
+**Backend & Java**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Observabilidade**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-**Linguagens & Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-**Frontend & Dados**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Dados & Backend as a Service**
+
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Testes & CI/CD**
+
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**DevOps & Infra (em formação)**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <br>
 
@@ -66,9 +69,20 @@ complementar:
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Maintenex** | Sistema de gestão de manutenção | React · TypeScript · Supabase |
-| *(seu projeto aqui)* | *breve descrição* | *tecnologias* |
-| *(seu projeto aqui)* | *breve descrição* | *tecnologias* |
+| **[Maintenex](https://github.com/yuuriic/maintenex)** | SaaS multiempresa de gestão de manutenção — checklists, estoque e pendências com SLA | React 19 · TypeScript · Supabase (RLS) · Playwright · k6 |
+| **[FinVoice AI](https://github.com/yuuriic/finvoice-ai)** | Assistente financeiro por comando de voz: transcreve áudio e executa operações via Tool Calling | Java 21 · Spring Boot · Spring AI · Groq |
+| **[Star Brownie](https://github.com/yuuriic/star-brownie)** | Site imersivo com modelo 3D animado por scroll e mapa interativo de pontos de venda | Next.js · React Three Fiber · GSAP |
+| **[VivaTour API](https://github.com/yuuriic/vivatour-api)** | API de reservas de viagens em Java puro, aplicando 5 padrões de projeto GoF | Java · Design Patterns |
+| **[Mabeel Coffee](https://github.com/yuuriic/mabeel-coffee)** | Site institucional responsivo de cafeteria, com cardápio e integração WhatsApp | Next.js · React · Tailwind CSS |
+
+<br>
+
+## 📜 Certificações
+
+- Bootcamp **Santander 2026 - AI Java Back-end** (DIO) — Java, OOP, SOLID/Clean Code, Design Patterns (GoF), Spring Boot, Spring Data, Spring Security, Spring Cloud OpenFeign, Spring AI, JDBC
+- Trilha **DevOps & SRE** (Alura, em andamento) — Linux (fundamentos e administração), Docker, GitHub, terminal, tráfego seguro na web
+- **Gestão de Infraestrutura de TI** — FIAP
+- **User Experience** — FIAP
 
 <br>
 
