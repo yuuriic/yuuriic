@@ -64,14 +64,6 @@ const yuri = {
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuriic&hide_border=true&theme=github-dark&v=3" />
-</div>
-
-<br>
-
 <div align="center">
   <i>Obrigado pela visita — fique à vontade para explorar meus repositórios e entrar em contato.</i>
 </div>
