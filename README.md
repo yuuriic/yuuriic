@@ -48,8 +48,8 @@ const yuri = {
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
 | **[Maintenex](https://github.com/yuuriic/maintenex)** | SaaS multiempresa de gestão de manutenção — checklists, estoque e pendências com SLA | React 19 · TypeScript · Supabase (RLS) · Playwright · k6 | 🟢 Em produção |
+| **[Star Brownie](https://github.com/yuuriic/star-brownie)** | Site imersivo com modelo 3D animado por scroll e mapa interativo de pontos de venda | Next.js · React Three Fiber · GSAP | 🟡 Em construção |
 | **[FinVoice AI](https://github.com/yuuriic/finvoice-ai)** | Assistente financeiro por comando de voz: transcreve áudio e executa operações via Tool Calling | Java 21 · Spring Boot · Spring AI · Groq | ✅ Concluído |
-| **[Star Brownie](https://github.com/yuuriic/star-brownie)** | Site imersivo com modelo 3D animado por scroll e mapa interativo de pontos de venda | Next.js · React Three Fiber · GSAP | ✅ Concluído |
 | **[VivaTour API](https://github.com/yuuriic/vivatour-api)** | API de reservas de viagens em Java puro, aplicando 5 padrões de projeto GoF | Java · Design Patterns | ✅ Concluído |
 | **[Mabeel Coffee](https://github.com/yuuriic/mabeel-coffee)** | Site institucional responsivo de cafeteria, com cardápio e integração WhatsApp | Next.js · React · Tailwind CSS | ✅ Concluído |
 
